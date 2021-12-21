@@ -1,9 +1,9 @@
 # patent_competion
 
 
-##AI 학습용 특허 데이터를 활용한 아이디어 공모전
+## AI 학습용 특허 데이터를 활용한 아이디어 공모전
 
-#우수상
+# 우수상
 
 ![image](https://user-images.githubusercontent.com/45275607/146904966-12a6fa16-df23-4ff9-8115-ddefd96b1abb.png)
 
